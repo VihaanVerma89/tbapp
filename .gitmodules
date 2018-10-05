@@ -1,3 +1,6 @@
 [submodule "tests-sdk"]
 	path = tests-sdk
 	url = git@github.com:VihaanVerma89/tests-sdk.git
+[submodule "quizzesSdk"]
+	path = quizzesSdk
+	url = git@github.com:VihaanVerma89/quizzesSdk.git
